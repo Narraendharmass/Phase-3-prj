@@ -1,0 +1,22 @@
+body{
+    background-color: violet;
+}
+.qpanel
+{
+    background-color: greenyellow;
+    border: none;
+    border-radius: 10px;
+    padding: 20px; 
+    width: 60%;
+    font-size: 15pt;
+}
+.ques{
+    font-size: 20pt;
+    font-weight: bold;
+}
+.lftCss{
+ padding: 10px;
+ float: left;
+
+
+}
